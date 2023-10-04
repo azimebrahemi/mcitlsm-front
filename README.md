@@ -1,7 +1,18 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+### Requirements 
+Node JS
+NPM
+Basic knowledge of HTML, CSS, and JavaScript.
+Basic understanding of ES6 features. Here’s my article explaining some of the ES6 features.
+To get started you should at least know the following features:
+1. Let
+2. Const
+3. Arrow functions
+4. Imports and Exports
+5. Classes
+Basic understanding of how to use npm.
 ## Available Scripts
 
 In the project directory, you can run:
