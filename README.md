@@ -5,7 +5,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Available Scripts
 
 In the project directory, you can run:
-
+## install dependencies
+use below comman
+npm install
+above command will install all dependencies listed in packages.json
+after successfully installing packages run below command to star react
 ### `npm start`
 
 Runs the app in the development mode.\
@@ -68,3 +72,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+### Description 
+this front-end application is built using the React JavaScript framework. this also includes back which you can get from the below link.
+The backend is developed using Spring Boot
+https://github.com/azimebrahemi/mcitlms.git
