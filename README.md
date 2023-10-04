@@ -75,5 +75,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ### Description 
 this front-end application is built using the React JavaScript framework. this also includes back which you can get from the below link.
+### axios
+I used Axios to communicate with the backend 
 The backend is developed using Spring Boot
 https://github.com/azimebrahemi/mcitlms.git
+Axios is a promise-based HTTP Client for node.js and the browser. It is isomorphic (= it can run in the browser and nodejs with the same codebase). On the server-side, it uses the native node.js http module, while on the client (browser) it uses XMLHttpRequest.
